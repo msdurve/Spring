@@ -1,0 +1,6 @@
+org\core\App.class
+org\core\Game.class
+org\core\NumberGeneratorImpl.class
+org\core\GameImpl.class
+org\core\NumberGenerator.class
+org\core\AppConfig.class
